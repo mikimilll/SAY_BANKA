@@ -1,0 +1,6 @@
+a = input("SAY_BANKA:")
+if a:
+    a != "banka","BANKA","Banka"
+    print("IDI NAHUY")
+else:
+    print("IDI NAHUY")
